@@ -1,9 +1,0 @@
-
-services:
-  - type: web
-    name: mirror-strategy-bot
-    env: docker
-    repo: https://github.com/SagoSEGUN/mirror-strategy-bot
-    branch: main
-    dockerfilePath: Dockerfile
-    autoDeploy: true
