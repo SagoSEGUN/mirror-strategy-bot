@@ -1,4 +1,1 @@
-python-telegram-bot
-requests
-asyncio
-aiohttp
+python-telegram-bot==20.7
